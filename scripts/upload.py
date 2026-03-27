@@ -10,14 +10,15 @@ folder = "helloproducts"
 for file in os.listdir(folder):
   if file.endwith(".json"):
     
-     with open(f"{folder}/{file}") as f:
+     with open(os.path.join(folder, file) as f:
        data = json.load(f)
 
      r = requests.post(
        WC_URL,
        auth=(CK, CS),
-       jason=data
+       jason=data,
+       timeout=30
      )
 
-     print(file, r.status_code)
+     print(r.text)
 
