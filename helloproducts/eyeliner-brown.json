@@ -1,1 +1,16 @@
-
+{
+  "name": "Waterproof Black Eyeliner",
+  "type": "simple",
+  "regular_price": "650",
+  "description": "Smooth waterproof black eyeliner for bold eye makeup.",
+  "categories": [
+    { "name": "Cosmetics" },
+    { "name": "Eye Makeup" }
+  ],
+  "images": [
+    {
+      "src": "https://github.com/abdulla-a-b/miralooks/blob/dc5e00522c9fb49bd31dafd09bc48eb913430e9c/images/eyeliner-brown.jpg "
+    }
+  ]
+}
+  
