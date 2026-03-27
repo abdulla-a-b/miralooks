@@ -1,1 +1,13 @@
+</>JSON
+{
+  "name": "Matte Red Lipstick",
+  "type": "simple",
+  "regular_price": "850",
+  "description": "Premium matte lipstick long lasting and waterproof",
+  "categories": [{"name": "Cosmetics"}],
+  "images": [
+    {
 
+    }
+  ]
+}
