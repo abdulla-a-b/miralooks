@@ -17,4 +17,5 @@ on:
           
       - run: pip install requests
       
+      - run: 1s -R
       - run: python scripts/upload.py
