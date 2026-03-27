@@ -1,12 +1,15 @@
-</>JSON
 {
   "name": "Matte Red Lipstick",
   "type": "simple",
   "regular_price": "850",
   "description": "Premium matte lipstick long lasting and waterproof",
-  "categories": [{"name": "Cosmetics"}],
+  "categories": [
+    {"name": "Cosmetics"},
+    {"name": "Lipstick"}
+  ],
   "images": [
     {
+      "src": "https://github.com/abdulla-a-b/miralooks/blob/dc5e00522c9fb49bd31dafd09bc48eb913430e9c/images/lipstick-red.jpg "
 
     }
   ]
