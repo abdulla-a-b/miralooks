@@ -9,6 +9,7 @@ folder = "helloproducts"
 
 for file in os.listdir(folder):
   if file.endwith(".json"):
+    
      with open(f"{folder}/{file}") as f:
        data = json.load(f)
 
